@@ -1,0 +1,1 @@
+import{_ as t,c as i,o as a,a1 as l}from"./chunks/framework.CuxCtyIg.js";const m=JSON.parse('{"title":"css布局方式","description":"","frontmatter":{},"headers":[],"relativePath":"css/layout.md","filePath":"css/layout.md"}'),o={name:"css/layout.md"},s=l("",7),n=[s];function r(e,c,d,g,h,_){return a(),i("div",null,n)}const p=t(o,[["render",r]]);export{m as __pageData,p as default};
