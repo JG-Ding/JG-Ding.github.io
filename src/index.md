@@ -3,20 +3,24 @@
 layout: home
 
 hero:
-  name: "my blog"
-  text: "my blog"
-  tagline: My great project tagline
+  name: "漫话前端"
+  text: "我的前端学习随笔"
+  tagline: 记性不好但不妨碍动手
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 概要
+      link: /abstrat
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 目录
+      link: /content
+    - theme: alt
+      text: 随便看看
+      link: /examples
 
 features:
-  - title: Feature A
+  - title: VitePress驱动
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    theme: brand
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
