@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as i,a1 as r}from"./chunks/framework.CceCxLSN.js";const h=JSON.parse('{"title":"声音格式","description":"","frontmatter":{},"headers":[],"relativePath":"mime/audio.md","filePath":"mime/audio.md"}'),t={name:"mime/audio.md"},l=r("",5),o=[l];function s(n,d,u,c,_,m){return i(),a("div",null,o)}const f=e(t,[["render",s]]);export{h as __pageData,f as default};

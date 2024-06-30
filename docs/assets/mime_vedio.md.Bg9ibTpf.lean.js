@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as i,a1 as l}from"./chunks/framework.CceCxLSN.js";const f=JSON.parse('{"title":"视频格式","description":"","frontmatter":{},"headers":[],"relativePath":"mime/vedio.md","filePath":"mime/vedio.md"}'),o={name:"mime/vedio.md"},t=l("",8),r=[t];function d(n,s,c,_,h,m){return i(),a("div",null,r)}const p=e(o,[["render",d]]);export{f as __pageData,p as default};

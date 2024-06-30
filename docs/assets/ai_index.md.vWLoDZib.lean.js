@@ -1,0 +1,1 @@
+import{_ as i,c as e,o as t,a1 as a}from"./chunks/framework.CceCxLSN.js";const h=JSON.parse('{"title":"AI","description":"","frontmatter":{},"headers":[],"relativePath":"ai/index.md","filePath":"ai/index.md"}'),l={name:"ai/index.md"},o=a("",9),n=[o];function r(_,s,c,p,d,A){return t(),e("div",null,n)}const u=i(l,[["render",r]]);export{h as __pageData,u as default};

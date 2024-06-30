@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,a1 as t}from"./chunks/framework.CceCxLSN.js";const _=JSON.parse('{"title":"图片格式","description":"","frontmatter":{},"headers":[],"relativePath":"mime/image.md","filePath":"mime/image.md"}'),i={name:"mime/image.md"},r=t("",5),c=[r];function s(d,l,n,h,m,p){return o(),a("div",null,c)}const u=e(i,[["render",s]]);export{_ as __pageData,u as default};

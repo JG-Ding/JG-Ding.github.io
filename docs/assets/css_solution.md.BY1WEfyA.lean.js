@@ -1,1 +1,0 @@
-import{_ as s,c as e,o,a1 as i}from"./chunks/framework.CuxCtyIg.js";const q=JSON.parse('{"title":"css解决方案","description":"","frontmatter":{},"headers":[],"relativePath":"css/solution.md","filePath":"css/solution.md"}'),a={name:"css/solution.md"},l=i("",22),t=[l];function c(d,n,r,u,p,h){return o(),e("div",null,t)}const f=s(a,[["render",c]]);export{q as __pageData,f as default};

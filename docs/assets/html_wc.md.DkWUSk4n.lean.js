@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as i,a1 as t}from"./chunks/framework.CuxCtyIg.js";const g=JSON.parse('{"title":"web component","description":"","frontmatter":{},"headers":[],"relativePath":"html/wc.md","filePath":"html/wc.md"}'),e={name:"html/wc.md"},n=t("",6),l=[n];function h(p,k,o,d,r,c){return i(),a("div",null,l)}const y=s(e,[["render",h]]);export{g as __pageData,y as default};

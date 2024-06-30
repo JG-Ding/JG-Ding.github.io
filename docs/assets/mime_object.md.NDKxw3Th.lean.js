@@ -1,0 +1,1 @@
+import{_ as e,c as i,o as a,a1 as t}from"./chunks/framework.CceCxLSN.js";const p=JSON.parse('{"title":"3D模型文件格式","description":"","frontmatter":{},"headers":[],"relativePath":"mime/object.md","filePath":"mime/object.md"}'),l={name:"mime/object.md"},o=t("",4),r=[o];function s(d,n,_,c,m,h){return a(),i("div",null,r)}const b=e(l,[["render",s]]);export{p as __pageData,b as default};
