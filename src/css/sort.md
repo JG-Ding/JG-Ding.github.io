@@ -26,7 +26,7 @@
    + t1级：table（tr+th+td+thead+tbody+tfoot+caption+colgroup+col）、textarea、video+object、details+summary、dialog、audio、select+option、map+area；
    + 元数据：slot、meta、html、body、head、link、script、style、noscript、title、template、iframe、base；
 + 次级语义元素：em、del、ins、kbd、abbr、code、data、var、cite、wbr、pre；address、blockquote、strong、mark、search……
-  
+
 ## vue组件注意事项
 使用vue的scoped特性和scss的树状声明（嵌套不超过两层），提高结构样式的优先级，防止全局选择器污染结构样式。
 在全局定义CSS变量，使需要更变的部分内容依赖于该CSS变量，通过改变CSS全局变量或者更换引用的全局基础类名，来达到更换皮肤的目的。这些需要更变的内容可以在全局基础类中，也可以在局部ID中。

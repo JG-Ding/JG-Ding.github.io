@@ -36,6 +36,6 @@ yarn.lock
 # media res
 packages/gui/custom
 
-
+local
 .vitepress/dist
 .vitepress/cache
